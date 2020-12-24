@@ -1,0 +1,8 @@
+@extends('layouts.app')
+
+@section('content')
+
+<div class="container-fluid">
+  <s-usuario></s-usuario>
+</div>
+@endsection

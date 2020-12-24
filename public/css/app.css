@@ -1,0 +1,131 @@
+.bg-sutran{
+	background: #000040;
+}
+.nav-item{
+	padding-right: 5px;
+	padding-left: 5px;
+	font-weight: 600;
+}
+.nav-item:hover{
+	background: #0D0D58;
+	color:#fff !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.9);
+}
+
+.table th, .table td{
+	vertical-align: middle !important;
+}
+.table th{
+	text-align: center
+}
+
+.tableVScroll{
+	overflow:scroll;
+    max-height:70vh !important;
+}
+.one-line{
+	overflow:hidden; 
+	white-space:nowrap;
+}
+.meta{
+	max-width: 300px !important;
+	min-width: 300px !important;
+
+}
+.planFiltro{
+	max-width: 100px !important;
+	min-width: 100px !important;
+
+}
+
+.table td{
+	font-size: 10px;
+}
+
+
+.modal-900{
+	max-width: 900px;
+}
+
+.modal-800{
+	max-width: 800px;
+}
+
+.modal-700{
+	max-width: 700px;
+}
+
+.modal-600{
+	max-width: 600px;
+}
+
+.modal-500{
+	max-width: 500px;
+}
+.modal-400{
+	max-width: 400px;
+}
+.modal-300{
+	max-width: 300px;
+}
+.modal-200{
+	max-width: 200px;
+}
+
+
+.modal-dialog{
+    overflow-y: initial !important
+}
+
+
+#spaceDraw{
+	min-width: 700px;
+}
+
+#containerDraw{
+	width: 100%;
+	overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.modal-title {
+	font-size: 11px !important;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+.metro-btn{
+	padding:20px;
+	color:#fff;
+	vertical-align: middle;
+	text-decoration: none;
+	border-radius:3px;
+}
+
+.metro-btn > *{
+	vertical-align: middle;
+}
+
+.metro-btn:hover{
+	box-shadow: 0 0 5px #BBBBBB;
+	text-decoration: none;
+}
+.icon-menu{
+	height:85px; 
+}
+
+.interior{
+	background: #0A0A63;
+	border-radius: 5px;
+}
+
+.interior h3{
+	font-size: 14px;
+}
